@@ -8,3 +8,5 @@ Este ejercicio es para guardar cambios en remoto
 Paso 1: git add .
 Paso 2: git commit -m "mensaje"
 Paso 3: git push
+
+Verifica la diferencia entre git merge y git rebase
